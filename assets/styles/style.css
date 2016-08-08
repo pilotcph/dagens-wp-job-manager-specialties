@@ -1,0 +1,18 @@
+.search_jobs .chosen-container {
+  width: 100% !important;
+  margin: 10px 0; }
+  .search_jobs .chosen-container a {
+    height: 38px;
+    padding: 6px 10px;
+    background-color: #fff;
+    border: 1px solid #BCBBBB;
+    border-radius: 0px;
+    box-shadow: none;
+    box-sizing: border-box;
+    background: none; }
+    .search_jobs .chosen-container a b {
+      background-size: 73px 50px !important;
+      background-position: 0px 6px !important; }
+  .search_jobs .chosen-container.active a b {
+    background-size: 73px 50px !important;
+    background-position: -25px 6px; }
