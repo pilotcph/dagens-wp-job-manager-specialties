@@ -3,7 +3,7 @@
  * Plugin Name: WP Job Manager - Predefined specialties
  * Plugin URI:  https://wordpress.org/plugins/wp-job-manager-specialties/
  * Description: Create predefined specialties/specialties that job submissions can associate themselves with.
- * Author:      Astoundify
+ * Author:      Astoundify, forked: Pilot & BAM
  * Author URI:  http://astoundify.com
  * Version:     1.10.0
  * Text Domain: wp-job-manager-specialties
